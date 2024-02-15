@@ -1,0 +1,16 @@
+[
+    {
+        "id": "1",
+        "name": "The Great Italian Pizza",
+        "cuisine": "Italian",
+        "address": "123 Flutter St.",
+        "rating": 4.5
+    },
+    {
+        "id": "2",
+        "name": "Curry Express",
+        "cuisine": "Indian",
+        "address": "456 Dart Ave.",
+        "rating": 4.2
+    }
+]
